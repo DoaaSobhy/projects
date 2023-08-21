@@ -1,0 +1,8 @@
+Minify JS online:
+----------------------------
+https://codebeautify.org/minify-js
+
+
+Minify CSS / JS online:
+----------------------------
+https://www.minifier.org/
